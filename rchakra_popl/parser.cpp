@@ -1,8 +1,8 @@
 
 /*-----------------------------------------------------------------------------------------------------------------------*/
   /* ASSIGNMENT 4 : Compiler (parser.cpp includes lexer.cpp and symbol.cpp)
-     AUTHOR - SHREEKANTH ANANTHANARAYANAN MOHAN
-     ASU ID - 1206321463 
+     AUTHOR - Rohit Chakravarthi
+     ASU ID - 1206215630
      COPYRIGHT (C) 2014 ALL RIGHTS RESERVED TO THE SOLE AUTHOR */
 /*----------------------------------------------------------------------------------------------------------------------*/
 
